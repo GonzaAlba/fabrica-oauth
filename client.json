@@ -1,0 +1,9 @@
+{
+  "client_id": "https://gonzaalba.github.io/fabrica-oauth/client.json",
+  "client_name": "INTEVIA - Fábrica de Sitios Web",
+  "redirect_uris": ["http://127.0.0.1:8765/oauth/callback"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp"
+}
